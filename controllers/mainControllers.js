@@ -29,7 +29,7 @@ async function uploadFileToS3(file) {
       else 
         console.log(`file ${file.originalFilename} uploaded on s3 successfully`);
     });
-    
+
   });
 }
 
