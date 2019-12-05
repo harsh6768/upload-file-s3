@@ -62,13 +62,14 @@ Follow steps to upload files on AWS S3 using node.js
     
     3.1 Click on Create Bucket and add Bucket Name which should be unique then click Next Button
     
-     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-42-29.png" alt="">
+     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-43-02.png" alt="">
     3.2 Click Next
     
-     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-42-29.png" alt="">
+     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-43-08.png" alt="">
      
     3.3 Click Next
     
-     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-42-29.png" alt="">
+     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-43-13.png" alt="">
+    3.4 Click on Create Bucket 
     
-    
+     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-43-21.png" alt="">
