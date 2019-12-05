@@ -25,7 +25,9 @@ Follow steps to upload files on AWS S3 using node.js
     <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-35-13.png" alt="">
    2.5 Click On Create User button
    <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-35-22.png" alt="">
-   2.6 Write down Access key and Secret Key
+   2.6 Write down Access key and Secret Key And Click Close Button
    
    <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-35-37.png" alt="">
+   2.7  Click on Inline Policy
+    <img src="https://github.com/harsh6768/upload-file-s3/blob/master/Images/Screenshot%20from%202019-12-04%2017-35-58.png" alt="">
 3. Create S3 bucket
