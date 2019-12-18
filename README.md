@@ -50,7 +50,7 @@ Follow steps to upload files on AWS S3 using node.js
                          "s3:GetObject"
                      ],
                      "Resource": [
-                         "arn:aws:s3:::*"
+                         "arn:aws:s3:::*"           //Put ARN  of your bucket
                      ]
                  }
              ]
